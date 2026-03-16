@@ -1,10 +1,10 @@
 class Solution {
 public:
     bool judgeSquareSum(int c) {
-        long l = 0;
-        long r = (int) sqrt(c);
+       long long l = 0;
+       long long r = (int) sqrt(c);
         while(l<=r){
-            long sqr = l*l + r*r;
+           long long sqr = l*l + r*r;
             if(sqr > c){
                 r--;
             }
