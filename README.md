@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -38,6 +40,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
