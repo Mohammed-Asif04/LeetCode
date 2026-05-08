@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -41,6 +42,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -75,4 +78,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
