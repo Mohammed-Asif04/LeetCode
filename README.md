@@ -42,6 +42,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -82,4 +84,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
