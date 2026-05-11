@@ -21,6 +21,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Mohammed-Asif04/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -47,6 +48,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Mohammed-Asif04/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -57,11 +59,13 @@
 | [0075-sort-colors](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Mohammed-Asif04/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0001-two-sum) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Mohammed-Asif04/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +73,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Mohammed-Asif04/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
