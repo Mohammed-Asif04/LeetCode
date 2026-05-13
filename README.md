@@ -52,6 +52,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohammed-Asif04/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 ## Sorting
 |  |
 | ------- |
