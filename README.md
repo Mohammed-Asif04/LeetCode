@@ -50,6 +50,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohammed-Asif04/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohammed-Asif04/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -102,6 +104,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
