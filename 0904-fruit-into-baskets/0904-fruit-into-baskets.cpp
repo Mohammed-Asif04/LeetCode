@@ -14,8 +14,11 @@ public:
                 }
                 l++;
             }
-            int len = r-l+1;
-            res = max(res,len);
+            if(mp.size()<=2){
+                int len = r-l+1;
+                res = max(res,len);
+            }
+            
             
             r++;
         }
