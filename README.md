@@ -33,6 +33,7 @@
 | [0125-valid-palindrome](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Array
@@ -72,6 +73,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohammed-Asif04/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -106,6 +108,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
