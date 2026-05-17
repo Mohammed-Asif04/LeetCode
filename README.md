@@ -59,6 +59,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Mohammed-Asif04/LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mohammed-Asif04/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -114,10 +115,12 @@
 | [0713-subarray-product-less-than-k](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohammed-Asif04/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mohammed-Asif04/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohammed-Asif04/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohammed-Asif04/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mohammed-Asif04/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
