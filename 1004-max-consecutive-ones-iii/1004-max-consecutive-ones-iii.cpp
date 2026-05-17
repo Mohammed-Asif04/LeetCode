@@ -8,6 +8,7 @@ public:
 
         while(r < nums.size()){
             mp[nums[r]]++;
+            int len = r-l+1;
 
             while(mp[0] > k){
                 mp[nums[l]]--;
@@ -15,7 +16,7 @@ public:
             }
 
             while(mp[0]<=k){
-                int len = r-l+1;
+                len = r-l+1;
                 res = max(res,len);
                 break;
             }
