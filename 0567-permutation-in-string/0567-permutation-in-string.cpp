@@ -11,9 +11,11 @@ public:
         }
         while( r < s2.size()){
             have[s2[r]]++;
-            if(r >= s1.size()){
+            int len = r-l+1;
+            while(len > s1.size()){ 
                 have[s2[l]]--;
                 l++;
+                len = r-l+1;
             }
             if(need == have){
                 return true;
